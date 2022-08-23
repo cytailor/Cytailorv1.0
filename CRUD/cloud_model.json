@@ -1,0 +1,13 @@
+{
+  "IaaS": [
+    "VM"
+  ],
+  "PaaS": [
+    "Kubernetes"
+  ],
+  "SaaS": [
+    "AzureAD",
+    "SAP",
+    "other"
+  ]
+}

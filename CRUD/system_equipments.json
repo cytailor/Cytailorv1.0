@@ -1,0 +1,34 @@
+{
+  "network": [
+    "switch",
+    "routers",
+    "load balancer"
+  ],
+  "system": [
+    "Openshift",
+    "Kubernetes",
+    "Unis based",
+    "Windows server"
+  ],
+  "base de données": [
+    "oracle",
+    "SQL",
+    "Redis",
+    "other"
+  ],
+  "stockage": [
+    "hard drives",
+    "NAS",
+    "object storage"
+  ],
+  "Virtualisation": [
+    "Vmware"
+  ],
+  "Security": [
+    "IPS/IDS",
+    "firewall",
+    "WAF",
+    "ActiveDirectory",
+    "IAM"
+  ]
+}
